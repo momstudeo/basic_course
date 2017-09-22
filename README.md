@@ -7,7 +7,7 @@
 ## Scratch基礎コース
 お子さんと一緒にScratchで遊べる程度の基礎的なスキルを会得できます。
  * [Lesson1 テキスト](pdf/MomStudeo_Lesson1.pdf)
- * [Lesson2 テキスト]
+ * [Lesson2 テキスト](pdf/MomStudeo_Lesson2.pdf)
  * [Lesson3 テキスト]
 
 ## Scratch実践コース
